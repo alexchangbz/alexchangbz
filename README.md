@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexchangbz
 - 👀 I’m interested in looking for jobs that are blockchain related
-- 🌱 I’m currently learning react-native & blockchain development
+- 🌱 I’m currently learning full stack development & blockchain development
 - 📫 How to reach me >>> linkedIn: https://www.linkedin.com/in/alex-chang-73197b14b/
 
 <!---
